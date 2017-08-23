@@ -1,0 +1,10 @@
+body{
+    background: url(http://cdn.pcwallart.com/images/universe-hd-purple-wallpaper-2.jpg) no-repeat;
+}
+.robotImg {
+	width: 75%;
+}
+.playButton{
+	cursor: pointer;
+	width: 65px;
+}
